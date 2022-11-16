@@ -41,4 +41,6 @@ class AdapterMovie : RecyclerView.Adapter<AdapterMovie.MovieViewHolder>() {
             notifyDataSetChanged()
         }
     }
+
+    fun tes(){}
 }
